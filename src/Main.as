@@ -3,6 +3,7 @@ package
 	import citrus.core.starling.StarlingCitrusEngine;
 	import citrus.utils.AGameData;
 	import citrus.utils.LevelManager;
+	import flash.display.BlendMode;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	
